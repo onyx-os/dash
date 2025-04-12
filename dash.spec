@@ -5,8 +5,7 @@ Summary: 	Debian Almquist shell (dash)
 Provides:	/bin/sh
 Provides:	/bin/dash
 License:	BSD
-# TODO: I CANT TYPE THE TILDE BEFORE HERBERT
-URL:		https://gondor.apana.org.au/herbert/dash
+URL:		https://gondor.apana.org.au/~herbert/dash
 Source0:	https://git.kernel.org/pub/scm/utils/dash/dash.git/snapshot/%{name}-%{version}.tar.gz
 
 %description
